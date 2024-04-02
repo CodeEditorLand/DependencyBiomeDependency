@@ -25,3 +25,6 @@ url = ssh://git@github.com/CodeEditorLand/Resources.git
 [submodule "SetupBiome"]
 path = SetupBiome
 url = ssh://git@github.com/CodeEditorLand/SetupBiome.git
+[submodule "PrivateMoon"]
+	path = PrivateMoon
+	url = ssh://git@github.com/CodeEditorLand/PrivateMoon.git
