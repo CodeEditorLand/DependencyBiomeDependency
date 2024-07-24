@@ -1,10 +1,14 @@
+[submodule "SetupBiome"]
+path = SetupBiome
+url = ssh://git@github.com/CodeEditorLand/SetupBiome.git
+
 [submodule "Biome"]
 path = Biome
 url = ssh://git@github.com/CodeEditorLand/Biome.git
 
-[submodule "BiomeIntellij"]
-path = BiomeIntellij
-url = ssh://git@github.com/CodeEditorLand/BiomeIntellij.git
+[submodule "BiomeIntelliJ"]
+path = BiomeIntelliJ
+url = ssh://git@github.com/CodeEditorLand/BiomeIntelliJ.git
 
 [submodule "BiomeLand"]
 path = BiomeLand
@@ -21,7 +25,3 @@ url = ssh://git@github.com/CodeEditorLand/PreCommit.git
 [submodule "Resources"]
 path = Resources
 url = ssh://git@github.com/CodeEditorLand/Resources.git
-
-[submodule "SetupBiome"]
-path = SetupBiome
-url = ssh://git@github.com/CodeEditorLand/SetupBiome.git
