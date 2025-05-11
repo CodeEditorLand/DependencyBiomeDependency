@@ -1,34 +1,27 @@
 [submodule "Biome"]
 path = Biome
 url = ssh://git@github.com/CodeEditorLand/Biome.git
-ignore = all
 
 [submodule "BiomeIntelliJ"]
 path = BiomeIntelliJ
 url = ssh://git@github.com/CodeEditorLand/BiomeIntelliJ.git
-ignore = all
 
 [submodule "BiomeLand"]
 path = BiomeLand
 url = ssh://git@github.com/CodeEditorLand/BiomeLand.git
-ignore = all
 
 [submodule "DiscordUtilsBot"]
 path = DiscordUtilsBot
 url = ssh://git@github.com/CodeEditorLand/DiscordUtilsBot.git
-ignore = all
 
 [submodule "PreCommit"]
 path = PreCommit
 url = ssh://git@github.com/CodeEditorLand/PreCommit.git
-ignore = all
 
 [submodule "Resources"]
 path = Resources
 url = ssh://git@github.com/CodeEditorLand/Resources.git
-ignore = all
 
 [submodule "SetupBiome"]
 path = SetupBiome
 url = ssh://git@github.com/CodeEditorLand/SetupBiome.git
-ignore = all
